@@ -24,4 +24,5 @@ Welcome to my page!<br>I'm Leon, Backend undergraduate developer from  Binus Uni
 ---
 [![](https://visitcount.itsvg.in/api?id=llem0on&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316pyapf2gvq6dlhioa6ylqdb5nm)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
