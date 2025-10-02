@@ -21,6 +21,12 @@ Welcome to my page!<br>I'm Leon, Backend undergraduate developer from  Binus Uni
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=llem0on&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=llem0on&icon=0&color=0)](https://visitcount.itsvg.in)
 
