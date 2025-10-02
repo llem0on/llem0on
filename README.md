@@ -23,7 +23,7 @@ Welcome to my page!<br>I'm Leon, Backend undergraduate developer from  Binus Uni
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph.svhttps://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph-dark.svgg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/llem0on/llem0on/output/pacman-contribution-graph.svg">
 </picture>
 
