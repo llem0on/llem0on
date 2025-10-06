@@ -36,11 +36,6 @@ Welcome to my page!<br>I'm Leon, Backend undergraduate developer from  Binus Uni
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316pyapf2gvq6dlhioa6ylqdb5nm)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Leon">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Leon&count=7" alt="Spotify recently played"  />
-  </a>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
