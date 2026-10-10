@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page!<br>I'm Leon, Backend undergraduate developer from  Binus University, Alam Sutera currently living in  Tangerang Selatan, Banten.
+Welcome to my page!<br>I'm Leon, Backend undergraduate developer at Binus University, Alam Sutera currently living in Tangerang Selatan, Banten.
 
 
 ## 🌐 Socials:
